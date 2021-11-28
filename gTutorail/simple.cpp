@@ -1,6 +1,6 @@
 ﻿#include <GL/freeglut.h>
 
-/*void myDisplay() {
+void myDisplay() {
 	glClear(GL_COLOR_BUFFER_BIT);
 	glBegin(GL_QUADS);
 
@@ -18,4 +18,4 @@ int main(int argc, char** argv)
 	glutCreateWindow("[과제1]17101212박지수");
 	glutDisplayFunc(myDisplay);
 	glutMainLoop();
-}*/
+}
